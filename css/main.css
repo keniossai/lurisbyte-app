@@ -1,0 +1,91 @@
+/**
+ * Copyright 2021 macbook air : kenneth ossai
+ * 
+ * Licensed under the Apache License, Version 2.0 (the "License");
+ * you may not use this file except in compliance with the License.
+ * You may obtain a copy of the License at
+ * 
+ *     http://www.apache.org/licenses/LICENSE-2.0
+ * 
+ * Unless required by applicable law or agreed to in writing, software
+ * distributed under the License is distributed on an "AS IS" BASIS,
+ * WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ * See the License for the specific language governing permissions and
+ * limitations under the License.
+ */
+ 
+body{
+    padding: 0;
+    margin: 0;
+    background: #F6F5F5;
+}
+
+
+
+  .form-control {
+    border-radius: 4.25rem;
+    background: transparent;
+  }
+
+  .form-inline{
+    width: 50%;
+}
+
+.btn{
+    background-color: #00BC8F;
+    color: white;
+    text-decoration: none;
+}
+
+.block{
+    width: 100px;
+}
+
+.signup{
+    background: transparent;
+    border: 2px solid #00BC8F;
+    color: black;
+}
+
+.signup:hover{
+    background-color: #00BC8F;
+}
+
+.btn:hover{
+    color: black;
+    background-color: rgb(216, 219, 221);
+}
+
+.nav-link span{
+    color: black;
+}
+
+.lady img{
+    width: 200% !important;
+    position: relative;
+    left: 70px;
+    top: 80px;
+}
+
+.content{
+    left: 40px;
+}
+.mx-auto h1{
+    top: 270px;
+    position: absolute;
+}
+
+.mx-auto span{
+    position: absolute;
+    top: 350px;
+}
+.mx-auto p{
+    top: 380px;
+    position: absolute;
+}
+
+.input-group{
+    top: 130px;
+}
+  
+
